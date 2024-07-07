@@ -1,0 +1,20 @@
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\对流层改正计算\对流层改正计算\bin\Debug\对流层改正计算.exe.config
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\对流层改正计算\对流层改正计算\bin\Debug\对流层改正计算.exe
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\对流层改正计算\对流层改正计算\bin\Debug\对流层改正计算.pdb
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\对流层改正计算\对流层改正计算\obj\Debug\对流层改正计算.csprojAssemblyReference.cache
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\对流层改正计算\对流层改正计算\obj\Debug\对流层改正计算.Form1.resources
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\对流层改正计算\对流层改正计算\obj\Debug\对流层改正计算.Properties.Resources.resources
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\对流层改正计算\对流层改正计算\obj\Debug\对流层改正计算.csproj.GenerateResource.cache
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\对流层改正计算\对流层改正计算\obj\Debug\对流层改正计算.csproj.CoreCompileInputs.cache
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\对流层改正计算\对流层改正计算\obj\Debug\对流层改正计算.exe
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\对流层改正计算\对流层改正计算\obj\Debug\对流层改正计算.pdb
+D:\Dipeng的学习空间\测绘程序设计练习\测绘程序设计国赛准备\Geomatics-Program-main\03-GNSS空间大气改正计算\对流层改正计算_李郑骁_615\对流层改正计算\bin\Debug\对流层改正计算.exe.config
+D:\Dipeng的学习空间\测绘程序设计练习\测绘程序设计国赛准备\Geomatics-Program-main\03-GNSS空间大气改正计算\对流层改正计算_李郑骁_615\对流层改正计算\obj\Debug\对流层改正计算.exe
+D:\Dipeng的学习空间\测绘程序设计练习\测绘程序设计国赛准备\Geomatics-Program-main\03-GNSS空间大气改正计算\对流层改正计算_李郑骁_615\对流层改正计算\obj\Debug\对流层改正计算.pdb
+D:\Dipeng的学习空间\测绘程序设计练习\测绘程序设计国赛准备\Geomatics-Program-main\03-GNSS空间大气改正计算\对流层改正计算_李郑骁_615\对流层改正计算\bin\Debug\对流层改正计算.exe
+D:\Dipeng的学习空间\测绘程序设计练习\测绘程序设计国赛准备\Geomatics-Program-main\03-GNSS空间大气改正计算\对流层改正计算_李郑骁_615\对流层改正计算\bin\Debug\对流层改正计算.pdb
+D:\Dipeng的学习空间\测绘程序设计练习\测绘程序设计国赛准备\Geomatics-Program-main\03-GNSS空间大气改正计算\对流层改正计算_李郑骁_615\对流层改正计算\obj\Debug\对流层改正计算.csprojAssemblyReference.cache
+D:\Dipeng的学习空间\测绘程序设计练习\测绘程序设计国赛准备\Geomatics-Program-main\03-GNSS空间大气改正计算\对流层改正计算_李郑骁_615\对流层改正计算\obj\Debug\对流层改正计算.Form1.resources
+D:\Dipeng的学习空间\测绘程序设计练习\测绘程序设计国赛准备\Geomatics-Program-main\03-GNSS空间大气改正计算\对流层改正计算_李郑骁_615\对流层改正计算\obj\Debug\对流层改正计算.Properties.Resources.resources
+D:\Dipeng的学习空间\测绘程序设计练习\测绘程序设计国赛准备\Geomatics-Program-main\03-GNSS空间大气改正计算\对流层改正计算_李郑骁_615\对流层改正计算\obj\Debug\对流层改正计算.csproj.GenerateResource.cache
+D:\Dipeng的学习空间\测绘程序设计练习\测绘程序设计国赛准备\Geomatics-Program-main\03-GNSS空间大气改正计算\对流层改正计算_李郑骁_615\对流层改正计算\obj\Debug\对流层改正计算.csproj.CoreCompileInputs.cache
